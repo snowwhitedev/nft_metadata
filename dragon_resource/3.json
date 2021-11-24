@@ -1,0 +1,61 @@
+{
+    "name": "Resource #3",
+    "description": "LEATHER.",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7c7b6397331391.5ec2c6d4539d4.jpg",
+    "external_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7c7b6397331391.5ec2c6d4539d4.jpg",
+    "attributes": [
+        {
+            "trait_type": "Tiny Dragon",
+            "display_type": "number",
+            "value": "3"
+        },
+        {
+            "trait_type": "Attributes",
+            "value": 12
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Plates"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Spots"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Pink Highlights"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Spooky Background"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Green Mohawk"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Crazy Eyes"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Bat Wings"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Trident Tail"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "50"
+        }
+    ]
+}

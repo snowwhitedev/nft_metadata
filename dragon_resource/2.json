@@ -1,0 +1,57 @@
+{
+    "name": "Resource #2",
+    "description": "METAL.",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7c7b6397331391.5ec2c6d4539d4.jpg",
+    "external_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7c7b6397331391.5ec2c6d4539d4.jpg",
+    "attributes": [
+        {
+            "trait_type": "Tiny Dragon",
+            "display_type": "number",
+            "value": "2"
+        },
+        {
+            "trait_type": "Attributes",
+            "value": 11
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Plates"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Pink Highlights"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Sky Background"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Straw Hat"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Cute Eyes"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Trident Tail"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "368"
+        }
+    ]
+}

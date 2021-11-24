@@ -1,0 +1,61 @@
+{
+    "name": "Resource #4",
+    "description": "GEMSTONES.",
+    "image": "https://cdn.substance3d.com/files/source/ce70641f-5d73-449d-8066-3cec09d71efa?height=800&width=800&mode=fill&backgroundColor=26,26,26&format=jpg",
+    "external_url": "https://cdn.substance3d.com/files/source/ce70641f-5d73-449d-8066-3cec09d71efa?height=800&width=800&mode=fill&backgroundColor=26,26,26&format=jpg",
+    "attributes": [
+        {
+            "trait_type": "Tiny Dragon",
+            "display_type": "number",
+            "value": "4"
+        },
+        {
+            "trait_type": "Attributes",
+            "value": 11
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Puckered Up"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Plates"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Spots"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Pink Highlights"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Spooky Background"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Cute Eyes"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Fanned Tail"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "446"
+        }
+    ]
+}
